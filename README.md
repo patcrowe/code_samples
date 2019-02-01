@@ -1,4 +1,5 @@
 # code_samples
-A few samples of code I have written.
+A few samples of code I have written
 
-All code here is written in C++
+There are some examples of C++, C, and python projects that I
+have completed either for my courses or for fun
